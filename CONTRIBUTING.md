@@ -13,3 +13,4 @@
 - `2026-04-19T15:30:00`: test(codementor-ai): Input sanitization to prevent prompt injection attacks [build #11]
 - `2026-04-20T10:30:00`: style(core-platform): Audio chunk streaming and browser MediaRecorder compatibility [build #12]
 - `2026-04-20T14:30:00`: docs(mediai-health): Google Gemini Pro integration and safety filters [build #13]
+- `2026-04-20T16:30:00`: perf(ai-resume-builder): Input sanitization to prevent prompt injection attacks [build #14]
