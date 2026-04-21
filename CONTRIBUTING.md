@@ -16,3 +16,4 @@
 - `2026-04-20T16:30:00`: perf(ai-resume-builder): Input sanitization to prevent prompt injection attacks [build #14]
 - `2026-04-20T20:30:00`: perf(ai-stock-predictor): State management store with Zustand and React Query [build #15]
 - `2026-04-21T09:30:00`: feat(ai-resume-builder): Technical indicators RSI, MACD, and Bollinger Bands calculation [build #16]
+- `2026-04-21T11:30:00`: perf(ai-resume-builder): Technical indicators RSI, MACD, and Bollinger Bands calculation [build #17]
