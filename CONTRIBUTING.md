@@ -25,3 +25,4 @@
 - `2026-04-23T13:30:00`: perf(smart-interview-coach): Monaco editor diff viewer and syntax highlighting [build #23]
 - `2026-04-23T17:30:00`: fix(mediai-health): Tailwind UI responsive layout and dark mode styles [build #24]
 - `2026-04-23T21:30:00`: chore(mediai-health): Celery background worker queue for document generation [build #25]
+- `2026-04-24T09:30:00`: docs(core-platform): API endpoint validation and error schemas [build #26]
