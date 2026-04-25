@@ -27,3 +27,4 @@
 - `2026-04-23T21:30:00`: chore(mediai-health): Celery background worker queue for document generation [build #25]
 - `2026-04-24T09:30:00`: docs(core-platform): API endpoint validation and error schemas [build #26]
 - `2026-04-24T12:30:00`: docs(ai-stock-predictor): Monaco editor diff viewer and syntax highlighting [build #27]
+- `2026-04-25T11:30:00`: perf(core-platform): Celery background worker queue for document generation [build #28]
