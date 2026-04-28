@@ -36,3 +36,4 @@
 - `2026-04-27T17:30:00`: refactor(codementor-ai): Celery background worker queue for document generation [build #34]
 - `2026-04-27T20:30:00`: fix(mediai-health): JWT authentication token refresh and role-based access control [build #35]
 - `2026-04-28T10:30:00`: chore(ai-resume-builder): Celery background worker queue for document generation [build #36]
+- `2026-04-28T14:30:00`: fix(mediai-health): OpenAI GPT prompt tuning and output parsing [build #37]
