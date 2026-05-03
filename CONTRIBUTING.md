@@ -50,3 +50,4 @@
 - `2026-05-02T19:30:00`: style(codementor-ai): Whisper speech-to-text pipeline optimization [build #48]
 - `2026-05-02T21:30:00`: docs(core-platform): Whisper speech-to-text pipeline optimization [build #49]
 - `2026-05-03T09:30:00`: docs(ai-stock-predictor): Monaco editor diff viewer and syntax highlighting [build #50]
+- `2026-05-03T11:30:00`: docs(core-platform): Rate limiting middleware and brute force protection [build #51]
