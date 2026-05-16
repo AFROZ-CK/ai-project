@@ -78,3 +78,4 @@
 - `2026-05-15T11:30:00`: docs(codementor-ai): Whisper speech-to-text pipeline optimization [build #76]
 - `2026-05-15T15:30:00`: feat(core-platform): Unit tests and integration test coverage with Pytest and Jest [build #77]
 - `2026-05-15T18:30:00`: chore(mediai-health): Health check endpoints and Prometheus telemetry metrics [build #78]
+- `2026-05-16T10:30:00`: docs(core-platform): Celery background worker queue for document generation [build #79]
