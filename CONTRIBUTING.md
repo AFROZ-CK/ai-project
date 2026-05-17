@@ -80,3 +80,4 @@
 - `2026-05-15T18:30:00`: chore(mediai-health): Health check endpoints and Prometheus telemetry metrics [build #78]
 - `2026-05-16T10:30:00`: docs(core-platform): Celery background worker queue for document generation [build #79]
 - `2026-05-16T16:30:00`: refactor(ai-resume-builder): Data pre-processing pipeline and feature normalization [build #80]
+- `2026-05-17T10:30:00`: chore(core-platform): CORS headers configuration and secure cookie handling [build #81]
