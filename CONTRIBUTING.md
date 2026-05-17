@@ -82,3 +82,4 @@
 - `2026-05-16T16:30:00`: refactor(ai-resume-builder): Data pre-processing pipeline and feature normalization [build #80]
 - `2026-05-17T10:30:00`: chore(core-platform): CORS headers configuration and secure cookie handling [build #81]
 - `2026-05-17T16:30:00`: chore(mediai-health): Monaco editor diff viewer and syntax highlighting [build #82]
+- `2026-05-17T18:30:00`: docs(ai-resume-builder): Google Gemini Pro integration and safety filters [build #83]
