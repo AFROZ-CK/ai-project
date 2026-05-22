@@ -93,3 +93,4 @@
 - `2026-05-21T09:30:00`: refactor(codementor-ai): TypeScript strict type definitions and schema validators [build #91]
 - `2026-05-21T17:30:00`: perf(codementor-ai): Whisper speech-to-text pipeline optimization [build #92]
 - `2026-05-22T11:30:00`: style(mediai-health): Monaco editor diff viewer and syntax highlighting [build #93]
+- `2026-05-22T19:30:00`: feat(core-platform): Input sanitization to prevent prompt injection attacks [build #94]
