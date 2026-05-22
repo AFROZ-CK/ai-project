@@ -94,3 +94,4 @@
 - `2026-05-21T17:30:00`: perf(codementor-ai): Whisper speech-to-text pipeline optimization [build #92]
 - `2026-05-22T11:30:00`: style(mediai-health): Monaco editor diff viewer and syntax highlighting [build #93]
 - `2026-05-22T19:30:00`: feat(core-platform): Input sanitization to prevent prompt injection attacks [build #94]
+- `2026-05-22T22:30:00`: fix(smart-interview-coach): Database migration scripts and index optimization [build #95]
