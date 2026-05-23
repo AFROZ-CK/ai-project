@@ -95,3 +95,4 @@
 - `2026-05-22T11:30:00`: style(mediai-health): Monaco editor diff viewer and syntax highlighting [build #93]
 - `2026-05-22T19:30:00`: feat(core-platform): Input sanitization to prevent prompt injection attacks [build #94]
 - `2026-05-22T22:30:00`: fix(smart-interview-coach): Database migration scripts and index optimization [build #95]
+- `2026-05-23T10:30:00`: style(ai-resume-builder): Bidirectional LSTM layer regularization and dropout [build #96]
