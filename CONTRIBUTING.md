@@ -107,3 +107,4 @@
 - `2026-05-26T14:30:00`: refactor(ai-stock-predictor): Rate limiting middleware and brute force protection [build #105]
 - `2026-05-26T18:30:00`: style(core-platform): Data pre-processing pipeline and feature normalization [build #106]
 - `2026-05-27T11:30:00`: test(codementor-ai): CORS headers configuration and secure cookie handling [build #107]
+- `2026-05-27T19:30:00`: chore(ai-resume-builder): Input sanitization to prevent prompt injection attacks [build #108]
