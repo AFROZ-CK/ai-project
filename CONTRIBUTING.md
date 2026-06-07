@@ -130,3 +130,4 @@
 - `2026-06-05T19:30:00`: fix(smart-interview-coach): Input sanitization to prevent prompt injection attacks [build #128]
 - `2026-06-06T11:30:00`: style(ai-stock-predictor): API endpoint validation and error schemas [build #129]
 - `2026-06-06T15:30:00`: feat(core-platform): Technical indicators RSI, MACD, and Bollinger Bands calculation [build #130]
+- `2026-06-07T10:30:00`: refactor(ai-resume-builder): Redis caching layer for AI model inference responses [build #131]
