@@ -131,3 +131,4 @@
 - `2026-06-06T11:30:00`: style(ai-stock-predictor): API endpoint validation and error schemas [build #129]
 - `2026-06-06T15:30:00`: feat(core-platform): Technical indicators RSI, MACD, and Bollinger Bands calculation [build #130]
 - `2026-06-07T10:30:00`: refactor(ai-resume-builder): Redis caching layer for AI model inference responses [build #131]
+- `2026-06-08T09:30:00`: chore(core-platform): State management store with Zustand and React Query [build #132]
