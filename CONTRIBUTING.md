@@ -156,3 +156,4 @@
 - `2026-06-16T21:30:00`: fix(ai-stock-predictor): API endpoint validation and error schemas [build #154]
 - `2026-06-17T10:30:00`: feat(ai-resume-builder): Google Gemini Pro integration and safety filters [build #155]
 - `2026-06-17T14:30:00`: docs(codementor-ai): State management store with Zustand and React Query [build #156]
+- `2026-06-17T22:30:00`: test(ai-resume-builder): Export service for PDF, DOCX, and CSV reporting [build #157]
