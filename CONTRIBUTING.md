@@ -169,3 +169,4 @@
 - `2026-06-21T10:30:00`: perf(mediai-health): Technical indicators RSI, MACD, and Bollinger Bands calculation [build #167]
 - `2026-06-21T22:30:00`: refactor(mediai-health): Whisper speech-to-text pipeline optimization [build #168]
 - `2026-06-22T10:30:00`: refactor(codementor-ai): State management store with Zustand and React Query [build #169]
+- `2026-06-22T14:30:00`: refactor(core-platform): JWT authentication token refresh and role-based access control [build #170]
