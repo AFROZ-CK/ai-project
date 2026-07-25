@@ -244,3 +244,4 @@
 - `2026-07-24T11:30:00`: style(codementor-ai): Google Gemini Pro integration and safety filters [build #242]
 - `2026-07-24T15:30:00`: perf(codementor-ai): State management store with Zustand and React Query [build #243]
 - `2026-07-25T10:30:00`: test(ai-resume-builder): WebSocket real-time event synchronization and reconnect logic [build #244]
+- `2026-07-25T22:30:00`: chore(core-platform): Rate limiting middleware and brute force protection [build #245]
