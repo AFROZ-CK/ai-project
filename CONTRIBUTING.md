@@ -254,3 +254,4 @@
 - `2026-07-28T13:30:00`: style(codementor-ai): Data pre-processing pipeline and feature normalization [build #252]
 - `2026-07-29T11:30:00`: docs(ai-stock-predictor): CORS headers configuration and secure cookie handling [build #253]
 - `2026-07-29T15:30:00`: docs(ai-resume-builder): Whisper speech-to-text pipeline optimization [build #254]
+- `2026-07-30T09:30:00`: feat(core-platform): JWT authentication token refresh and role-based access control [build #255]
