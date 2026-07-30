@@ -257,3 +257,4 @@
 - `2026-07-30T09:30:00`: feat(core-platform): JWT authentication token refresh and role-based access control [build #255]
 - `2026-07-30T15:30:00`: fix(ai-resume-builder): Technical indicators RSI, MACD, and Bollinger Bands calculation [build #256]
 - `2026-07-30T18:30:00`: fix(ai-resume-builder): Bidirectional LSTM layer regularization and dropout [build #257]
+- `2026-07-30T22:30:00`: style(smart-interview-coach): Input sanitization to prevent prompt injection attacks [build #258]
