@@ -260,3 +260,4 @@
 - `2026-07-30T22:30:00`: style(smart-interview-coach): Input sanitization to prevent prompt injection attacks [build #258]
 - `2026-07-31T11:30:00`: style(smart-interview-coach): Celery background worker queue for document generation [build #259]
 - `2026-07-31T19:30:00`: refactor(ai-stock-predictor): Technical indicators RSI, MACD, and Bollinger Bands calculation [build #260]
+- `2026-07-31T21:30:00`: docs(codementor-ai): PWA service worker offline cache and sync logic [build #261]
