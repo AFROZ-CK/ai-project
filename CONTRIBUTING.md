@@ -289,3 +289,4 @@
 - `2026-08-12T21:30:00`: perf(codementor-ai): Unit tests and integration test coverage with Pytest and Jest [build #287]
 - `2026-08-13T13:30:00`: chore(mediai-health): OpenAI GPT prompt tuning and output parsing [build #288]
 - `2026-08-13T15:30:00`: style(ai-stock-predictor): Audio chunk streaming and browser MediaRecorder compatibility [build #289]
+- `2026-08-14T10:30:00`: fix(ai-resume-builder): PostgreSQL async session management and connection pool [build #290]
