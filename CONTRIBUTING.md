@@ -291,3 +291,4 @@
 - `2026-08-13T15:30:00`: style(ai-stock-predictor): Audio chunk streaming and browser MediaRecorder compatibility [build #289]
 - `2026-08-14T10:30:00`: fix(ai-resume-builder): PostgreSQL async session management and connection pool [build #290]
 - `2026-08-15T09:30:00`: test(mediai-health): Monaco editor diff viewer and syntax highlighting [build #291]
+- `2026-08-15T21:30:00`: docs(ai-resume-builder): Rate limiting middleware and brute force protection [build #292]
