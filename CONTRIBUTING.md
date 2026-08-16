@@ -292,3 +292,4 @@
 - `2026-08-14T10:30:00`: fix(ai-resume-builder): PostgreSQL async session management and connection pool [build #290]
 - `2026-08-15T09:30:00`: test(mediai-health): Monaco editor diff viewer and syntax highlighting [build #291]
 - `2026-08-15T21:30:00`: docs(ai-resume-builder): Rate limiting middleware and brute force protection [build #292]
+- `2026-08-16T09:30:00`: chore(codementor-ai): Celery background worker queue for document generation [build #293]
