@@ -298,3 +298,4 @@
 - `2026-08-17T18:30:00`: chore(ai-resume-builder): JWT authentication token refresh and role-based access control [build #296]
 - `2026-08-18T09:30:00`: refactor(ai-stock-predictor): OpenAI GPT prompt tuning and output parsing [build #297]
 - `2026-08-18T12:30:00`: test(mediai-health): OpenAI GPT prompt tuning and output parsing [build #298]
+- `2026-08-18T16:30:00`: style(ai-resume-builder): Audio chunk streaming and browser MediaRecorder compatibility [build #299]
