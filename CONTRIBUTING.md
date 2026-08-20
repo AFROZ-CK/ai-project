@@ -301,3 +301,4 @@
 - `2026-08-18T16:30:00`: style(ai-resume-builder): Audio chunk streaming and browser MediaRecorder compatibility [build #299]
 - `2026-08-19T10:30:00`: feat(smart-interview-coach): Technical indicators RSI, MACD, and Bollinger Bands calculation [build #300]
 - `2026-08-19T14:30:00`: refactor(smart-interview-coach): CORS headers configuration and secure cookie handling [build #301]
+- `2026-08-20T09:30:00`: refactor(codementor-ai): API endpoint validation and error schemas [build #302]
