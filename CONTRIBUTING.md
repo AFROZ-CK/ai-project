@@ -303,3 +303,4 @@
 - `2026-08-19T14:30:00`: refactor(smart-interview-coach): CORS headers configuration and secure cookie handling [build #301]
 - `2026-08-20T09:30:00`: refactor(codementor-ai): API endpoint validation and error schemas [build #302]
 - `2026-08-21T10:30:00`: style(mediai-health): Rate limiting middleware and brute force protection [build #303]
+- `2026-08-21T12:30:00`: docs(mediai-health): JWT authentication token refresh and role-based access control [build #304]
