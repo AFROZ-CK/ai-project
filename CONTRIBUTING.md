@@ -308,3 +308,4 @@
 - `2026-08-21T16:30:00`: perf(ai-resume-builder): Export service for PDF, DOCX, and CSV reporting [build #306]
 - `2026-08-21T18:30:00`: feat(ai-stock-predictor): CORS headers configuration and secure cookie handling [build #307]
 - `2026-08-22T10:30:00`: feat(core-platform): Recharts data visualization and trend analysis graphs [build #308]
+- `2026-08-22T18:30:00`: test(smart-interview-coach): PWA service worker offline cache and sync logic [build #309]
