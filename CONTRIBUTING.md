@@ -311,3 +311,4 @@
 - `2026-08-22T18:30:00`: test(smart-interview-coach): PWA service worker offline cache and sync logic [build #309]
 - `2026-08-23T09:30:00`: refactor(codementor-ai): Celery background worker queue for document generation [build #310]
 - `2026-08-23T17:30:00`: fix(ai-resume-builder): Celery background worker queue for document generation [build #311]
+- `2026-08-24T09:30:00`: docs(smart-interview-coach): Export service for PDF, DOCX, and CSV reporting [build #312]
