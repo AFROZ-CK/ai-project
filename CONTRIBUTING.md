@@ -313,3 +313,4 @@
 - `2026-08-23T17:30:00`: fix(ai-resume-builder): Celery background worker queue for document generation [build #311]
 - `2026-08-24T09:30:00`: docs(smart-interview-coach): Export service for PDF, DOCX, and CSV reporting [build #312]
 - `2026-08-24T13:30:00`: fix(smart-interview-coach): Bidirectional LSTM layer regularization and dropout [build #313]
+- `2026-08-24T19:30:00`: feat(core-platform): Health check endpoints and Prometheus telemetry metrics [build #314]
