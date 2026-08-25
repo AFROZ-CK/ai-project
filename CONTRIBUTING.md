@@ -315,3 +315,4 @@
 - `2026-08-24T13:30:00`: fix(smart-interview-coach): Bidirectional LSTM layer regularization and dropout [build #313]
 - `2026-08-24T19:30:00`: feat(core-platform): Health check endpoints and Prometheus telemetry metrics [build #314]
 - `2026-08-25T11:30:00`: style(core-platform): API endpoint validation and error schemas [build #315]
+- `2026-08-25T14:30:00`: chore(ai-resume-builder): CORS headers configuration and secure cookie handling [build #316]
