@@ -314,3 +314,4 @@
 - `2026-08-24T09:30:00`: docs(smart-interview-coach): Export service for PDF, DOCX, and CSV reporting [build #312]
 - `2026-08-24T13:30:00`: fix(smart-interview-coach): Bidirectional LSTM layer regularization and dropout [build #313]
 - `2026-08-24T19:30:00`: feat(core-platform): Health check endpoints and Prometheus telemetry metrics [build #314]
+- `2026-08-25T11:30:00`: style(core-platform): API endpoint validation and error schemas [build #315]
