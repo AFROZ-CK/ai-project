@@ -317,3 +317,4 @@
 - `2026-08-25T11:30:00`: style(core-platform): API endpoint validation and error schemas [build #315]
 - `2026-08-25T14:30:00`: chore(ai-resume-builder): CORS headers configuration and secure cookie handling [build #316]
 - `2026-08-26T10:30:00`: chore(ai-stock-predictor): State management store with Zustand and React Query [build #317]
+- `2026-08-26T14:30:00`: feat(ai-resume-builder): State management store with Zustand and React Query [build #318]
