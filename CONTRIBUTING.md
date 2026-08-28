@@ -321,3 +321,4 @@
 - `2026-08-26T22:30:00`: style(core-platform): Bidirectional LSTM layer regularization and dropout [build #319]
 - `2026-08-27T10:30:00`: refactor(mediai-health): PostgreSQL async session management and connection pool [build #320]
 - `2026-08-27T22:30:00`: feat(codementor-ai): Recharts data visualization and trend analysis graphs [build #321]
+- `2026-08-28T09:30:00`: refactor(codementor-ai): Celery background worker queue for document generation [build #322]
