@@ -324,3 +324,4 @@
 - `2026-08-28T09:30:00`: refactor(codementor-ai): Celery background worker queue for document generation [build #322]
 - `2026-08-28T12:30:00`: chore(codementor-ai): Celery background worker queue for document generation [build #323]
 - `2026-08-28T20:30:00`: perf(mediai-health): OpenAI GPT prompt tuning and output parsing [build #324]
+- `2026-08-29T10:30:00`: perf(core-platform): Audio chunk streaming and browser MediaRecorder compatibility [build #325]
