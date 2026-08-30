@@ -327,3 +327,4 @@
 - `2026-08-29T10:30:00`: perf(core-platform): Audio chunk streaming and browser MediaRecorder compatibility [build #325]
 - `2026-08-29T22:30:00`: test(ai-resume-builder): Bidirectional LSTM layer regularization and dropout [build #326]
 - `2026-08-30T09:30:00`: test(ai-resume-builder): Docker containerization multi-stage builds and compose setup [build #327]
+- `2026-08-30T12:30:00`: perf(smart-interview-coach): PWA service worker offline cache and sync logic [build #328]
